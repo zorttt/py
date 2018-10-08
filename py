@@ -1,1 +1,2 @@
 pırt
+ikinci
